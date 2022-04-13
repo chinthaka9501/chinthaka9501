@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for Watching this Portfolio..!
 
-Template Name: iPortfolio
-Template URL: 
-Author: chinthaka 
+Template Name: Chintha Amarasingnhe's Portfolio
+Template URL: https://chinthakaamarasinghe.github.io/
+Author: Chinthaka Amarasinghe 
 License: https://bootstrapmade.com/license/
